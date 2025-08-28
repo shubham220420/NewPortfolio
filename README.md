@@ -102,5 +102,5 @@ The project can be deployed to any static hosting service:
 5. Open a Pull Request
 
 <div align="center">
-Made by 57gam
+Made by Shubham Rakheja
 </div>
