@@ -44,7 +44,7 @@ export default function FeaturesSectionDemo() {
       icon: <IconCode className="w-6 h-6" />,
     },
     {
-      title: "AI & Machine Learning",
+      title: "Artificial Intelligence",
       description:
         "Specialized in AI-powered applications, automation workflows, and intelligent systems using OpenAI.",
       icon: <IconBrain className="w-6 h-6" />,
