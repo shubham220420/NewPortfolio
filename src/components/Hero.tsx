@@ -6,7 +6,7 @@ import { Github, Linkedin, Eye, FileText, X, Download } from 'lucide-react';
 
 const Hero = () => {
   const handleResumeView = () => {
-    window.open('/Kalp_Full_Stack.pdf', '_blank');
+    window.open('https://drive.google.com/file/d/1elIctaGS1l0YSBsxKcMlZMHGVIP8CFYR/view?usp=drive_link', '_blank');
   };
 
   const handleResumeDownload = () => {
