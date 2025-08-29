@@ -22,7 +22,7 @@ const projectsData: Project[] = [
     description: "PitchSpark lets aspiring founders share and refine their startup ideas through interactive pitching. Users can post their concepts, receive feedback, and engage with a community of peers to improve their pitches. Uses Sanity.io for headless content management. Deployed on Vercel, it provides an easy, collaborative space for startup validation and idea exchange.",
     image: "/lovable-uploads/PitchSpark.png",
     tags: ["Next.js", "Node.js", "REST", "NextAuth", "SanityCMS","Express.js","Tailwind CSS"],
-    demoUrl: "pitch-spark-delta.vercel.app",
+    demoUrl: "https://pitch-spark-delta.vercel.app",
     githubUrl: "https://github.com/shubham220420/PitchSpark"
   },
   {
