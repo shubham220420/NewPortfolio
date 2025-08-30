@@ -30,7 +30,7 @@ const projectsData: Project[] = [
     title: "Portfolio with Admin Dashboard",
     description: "A modern, full-stack portfolio website featuring an integrated admin dashboard for seamless content and project management. The platform supports secure authentication with Next-Auth, state management via React Context API. The admin dashboard allows easy updates to portfolio content, project listings, and blog posts, all within a responsive and visually engaging UI",
     image: "/lovable-uploads/portfolio.png",
-    tags: ["React", "Next.js", "Tailwind CSS", "JS", "Node.js", "Express.js", "Next-Auth", "Context-API", "Mongo"],
+    tags: ["React", "Next.js", "Tailwind CSS", "TypeScript", "Node.js", "Express.js", "Next-Auth", "Context-API", "Mongo"],
     demoUrl: "https://www.shubhamrakheja.online/",
     githubUrl: "https://github.com/shubham220420/NewPortFolio"
   },
@@ -39,7 +39,7 @@ const projectsData: Project[] = [
     title: "ATSify-AI Powered Resume Analysis",
     description: "ATSify helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) using AI-driven analysis. Simply upload your resume and job description, and the tool instantly evaluates formatting, keyword relevance, and overall ATS compatibility. It highlights missing skills, provides actionable suggestions, and scores your resume’s chances of passing ATS filters. Deployed on Vercel, ATSify ensures fast, accessible, and on-demand resume optimization for students and professionals alike.",
     image: "/lovable-uploads/atsify.png",
-    tags: ["React", "Tailwind CSS", "JS", "Node.js", "Express.js", "OPEN-API"],
+    tags: ["React", "Tailwind CSS", "TypeScript", "Node.js", "Express.js", "OPEN-API"],
     demoUrl: "https://ats-resume-checker-iota.vercel.app/",
     githubUrl: "https://github.com/Shubham220420/ats-resume-checker"
   },
