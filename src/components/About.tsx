@@ -27,7 +27,7 @@ const timelineData: TimelineItem[] = [
   {
     id: 3,
     year: "2024 December - Present",
-    title: "Codechefg Rating 1627 (3 Star)",
+    title: "Codechef Rating 1627 (3 Star)",
     description: " Achieved a Codechef rating of 1627 (3 Star) by consistently solving problems and participating in contests. Focused on enhancing algorithmic skills and learning new techniques to tackle diverse problem types.",
     type: "education"
   }
