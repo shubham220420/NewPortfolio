@@ -11,8 +11,8 @@ const Hero = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1elIctaGS1l0YSBsxKcMlZMHGVIP8CFYR/view?usp=drive_link';
-    link.download = 'Shubham_Rakheja_Resume(1).pdf';
+    link.href = 'https://drive.google.com/file/d/1t_tAQA6_Mmq2th5tuV4gUNmHLPLgw_Kn/view?usp=drive_link';
+    link.download = 'Shubham_Rakheja_Resume.pdf';
     link.click();
   };
 
