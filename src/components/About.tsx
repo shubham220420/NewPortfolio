@@ -13,8 +13,8 @@ const timelineData: TimelineItem[] = [
   {
     id: 1,
     year: "2024 November - Present",
-    title: "My LeetCode Journey - 1797 Rated",
-    description: `Started with Zero Coding Knowledge to ranking in te top 7% on LeetCode. Solved 300+ problems across various topics including Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more. Focused on problem-solving skills, algorithmic thinking, and coding efficiency.`,
+    title: "My LeetCode Journey - 1877 Rated (Knight)",
+    description: `Started with Zero Coding Knowledge to ranking in te top 7% on LeetCode. Solved 360+ problems across various topics including Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more. Focused on problem-solving skills, algorithmic thinking, and coding efficiency.`,
     type: "experience"
   },
   {
