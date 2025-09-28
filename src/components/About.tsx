@@ -55,6 +55,13 @@ const About = () => {
               </p>
               <h3 className="text-xl font-semibold mt-8 mb-4 bg-gradient-to-r from-blue-400 to-blue-600 text-transparent bg-clip-text">Certifications</h3>
               <div className="flex flex-col gap-4">
+                <a href="https://drive.google.com/file/d/1feW1RpC0i4hHHw6Zc60XTJRcThnQR0pO/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-lg bg-black/30 border border-blue-500/20 hover:bg-blue-900/20 transition">
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUJoEgeWZqm-5ANn6_KfnC6-eNO5p2p3sPg&s" alt="JPMC Software Dev." className="w-8 h-8" />
+                  <div>
+                    <div className="font-semibold text-blue-400">JPMorgan Software Development</div>
+                    <div className="text-xs text-muted-foreground">Software Development Focus</div>
+                  </div>
+                </a>
                 <a href="https://drive.google.com/file/d/1M_aWuBcJTXIaRx-cwA2G6_zauFscbxYN/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-lg bg-black/30 border border-blue-500/20 hover:bg-blue-900/20 transition">
                   <img src="https://toppng.com/uploads/preview/infosys-vector-logo-free-download-11574200524wvzgyrao38.png" alt="Google Data Analytics" className="w-8 h-8" />
                   <div>
